@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MarketoClone
 
 **TODO: Add description**
@@ -19,3 +20,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/marketo_clone](https://hexdocs.pm/marketo_clone).
 
+=======
+# marketo_clone
+My attempt at creating Marketo Clone in Elixir
+>>>>>>> bf04970b08918ca14ea93909ded5245cb5a64bd2
